@@ -1,9 +1,6 @@
 // общие стили для ссылок
 %link {
   text-decoration: none;
-  &:visited {
-    color: currentColor;
-  }
 }
 
 %d-block {
